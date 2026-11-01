@@ -1,14 +1,7 @@
-# Nathan Rosenfeld — Data Science Portfolio
+# Nathan Rosenfeld — Portfolio
 
-A free static portfolio website hosted with GitHub Pages.
+Static GitHub Pages site. Upload **all contents** of this folder to the **root** of the `nrosenfe.github.io` repository. Keep the `projects/` directory and `style.css` in their relative locations.
 
-## Publishing
+The homepage links to seven dedicated project pages. Each page links to existing external materials. The pages currently provide concise summaries; detailed methods and results can be added after reviewing the original reports.
 
-Upload `index.html` and `style.css` to the root of the public `nrosenfeld.github.io` repository. In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select **main** and **/(root)**, and save. The website will be available at https://nrosenfeld.github.io after deployment completes.
-
-## Editing
-
-- Edit the text and project cards in `index.html`.
-- Adjust layout and colors in `style.css`.
-- Replace the draft project summaries with links to public repositories and project write-ups when ready.
-- Never publish confidential employer data, proprietary code, personal information, or datasets without redistribution rights.
+Before publicizing: check the Google Docs share settings (Anyone with the link → Viewer), check repository visibility, and ensure all material is authorized for public sharing.
